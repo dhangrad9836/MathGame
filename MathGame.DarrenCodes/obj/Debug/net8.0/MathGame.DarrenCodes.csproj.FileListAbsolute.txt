@@ -1,0 +1,14 @@
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\bin\Debug\net8.0\MathGame.DarrenCodes.exe
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\bin\Debug\net8.0\MathGame.DarrenCodes.deps.json
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\bin\Debug\net8.0\MathGame.DarrenCodes.runtimeconfig.json
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\bin\Debug\net8.0\MathGame.DarrenCodes.dll
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\bin\Debug\net8.0\MathGame.DarrenCodes.pdb
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\obj\Debug\net8.0\MathGame.DarrenCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\obj\Debug\net8.0\MathGame.DarrenCodes.AssemblyInfoInputs.cache
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\obj\Debug\net8.0\MathGame.DarrenCodes.AssemblyInfo.cs
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\obj\Debug\net8.0\MathGame.DarrenCodes.csproj.CoreCompileInputs.cache
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\obj\Debug\net8.0\MathGame.DarrenCodes.dll
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\obj\Debug\net8.0\refint\MathGame.DarrenCodes.dll
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\obj\Debug\net8.0\MathGame.DarrenCodes.pdb
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\obj\Debug\net8.0\MathGame.DarrenCodes.genruntimeconfig.cache
+C:\Users\dhang\Desktop\c_repos\MathGame.DarrenCodes\MathGame.DarrenCodes\obj\Debug\net8.0\ref\MathGame.DarrenCodes.dll
